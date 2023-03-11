@@ -66,9 +66,4 @@ Checkout page with total amount of all the cart product and transaction.
 - Login/Signup page with working properly.
 - Menu page show appending data.
 - Add product in cart page successfully.
-- Checkout page and order done successfully. 
-
-## Area of Responsibility
-
-- Integrated all the pages successfully.
-- Developed the Payment page,Cart Page , Login/Signup Page.
+- Checkout page and order done successfully.
